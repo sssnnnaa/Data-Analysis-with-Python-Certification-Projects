@@ -59,6 +59,17 @@ Analysis of FreeCodeCamp's forum page views featuring:
 - Data aggregation and grouping
 - Pattern identification
 
+### 4. Demographic Data Analyzer
+Analysis of 1994 Census database demographic data including:
+- Race distribution analysis
+- Education level impact on salary
+- Gender-based statistical analysis
+- Work hours analysis
+- Geographical salary distribution
+- Advanced data filtering and calculations
+- Percentage-based analysis
+- Cross-variable correlation studies
+
 ## 🎯 Project Requirements
 
 Each project required:
