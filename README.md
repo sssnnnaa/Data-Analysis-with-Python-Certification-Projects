@@ -74,7 +74,6 @@ Each project required:
 - Pandas: data cleaning, filtering, transformations, and time series handling
 - Data Visualization: multi-panel plots, heat maps, box plots, line plots
 - Statistical Analysis: correlation, linear regression, data normalization
-- Feature Engineering: metric calculations, binary classification, data categorization
 - Code Organization: modular structure, unit testing, documentation
 
 ## 🏆 Certification
